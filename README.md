@@ -90,13 +90,6 @@
   - 잃어버린 물건을 찾아달라고 분실자가 직접 찾아달라고 글 등록 가능
   - 댓글
 
-
-  ##### 그 외 문서
-
-  - :link: [팀페이지](https://www.notion.so/elice/6-9dbd744e014a4644abbebe0fd34fd7f4?pvs=4)
-  - :link: [API Description](https://www.notion.so/elice/API-Description-9327335486e4408dbd8ad870bf565067?pvs=4)
-  - :link: [figma](https://www.figma.com/file/EAa8A31VkxpnMyCTzHI2Zo/2%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
-
   ### 5. 프로젝트 파일 구조
     📦backend
     ┣ 📂bin
